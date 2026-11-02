@@ -1,0 +1,7 @@
+{
+  "name": "KILN — Ceramic Atelier & Objects",
+  "description": "Contemporary ceramic atelier based in Kyoto and Lisbon. Hand-thrown stoneware, fired at 1,260°C in small batches. Made slowly. Meant to last.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
